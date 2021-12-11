@@ -27,5 +27,5 @@
 3. Punch out dough on countertop. Divide into 3 equal portions (150g). Cover and rest 10 minutes.
 4. Roll out each portion, then fold 1/3 inward front down and bottom up.
 5. Roll out lengthwise and swisssroll up. Place into loaf pan and proof 1 hour.
-6. Cover the loaf pan and bake in preheated oven at 200degC for 40 minutes.
+6. Cover the loaf pan and bake in preheated oven at 190degC for 35-40 minutes.
 7. Slice after bread has cooled, at least 1 hour.
