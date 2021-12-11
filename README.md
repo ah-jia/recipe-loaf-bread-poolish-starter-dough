@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+**Load Bread (Poolish Starter Dough)**
 
-You can use the [editor on GitHub](https://github.com/ah-jia/recipe-loaf-bread-poolish-starter-dough/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Poolish dough
+## Ingredients
+- 75g bread flour
+- 75g water
+- 1/16 tsp yeast
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Steps
+1. Mix, cover and proof 1-3 hours, then put in fridge for another 16 hours or up to 2 days.
+2. OR to use straightaway, proof on countertop for 4 hours till bubbly (doable with 2 hours)
 
-### Markdown
+# Main dough
+## Ingredients
+- 125g bread flour
+- 50g cake flour (can use plain flour or bread flour)
+- 25g sugar
+-  3g yeast
+-  3g salt
+- 30g beaten eggs
+- 40-50g water (or milk)
+- 25g butter, softened
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ah-jia/recipe-loaf-bread-poolish-starter-dough/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Steps
+1. Mix all, except butter. Add in poolish dough. Mix till a rough dough, then add in butter.
+2. Mix till elastic & smooth. Cling wrap and proof 1 hour (do the finger test by pressing finger into centre of dough, the depression should remain).
+3. Punch out dough on countertop. Divide into 3 equal portions (150g). Cover and rest 10 minutes.
+4. Roll out each portion, then fold 1/3 inward front down and bottom up.
+5. Roll out lengthwise and swisssroll up. Place into loaf pan and proof 1 hour.
+6. Cover the loaf pan and bake in preheated oven at 200degC for 40 minutes.
+7. Slice after bread has cooled, at least 1 hour.
