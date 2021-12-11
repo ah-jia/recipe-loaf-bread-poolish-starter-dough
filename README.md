@@ -1,17 +1,17 @@
-**Load Bread (Poolish Starter Dough)**
+# Load Bread (Poolish Starter Dough)
 
-# Poolish dough
-## Ingredients
+## Poolish dough
+### Ingredients
 - 75g bread flour
 - 75g water
 - 1/16 tsp yeast
 
-## Steps
+### Steps
 1. Mix, cover and proof 1-3 hours, then put in fridge for another 16 hours or up to 2 days.
 2. OR to use straightaway, proof on countertop for 4 hours till bubbly (doable with 2 hours)
 
-# Main dough
-## Ingredients
+## Main dough
+### Ingredients
 - 125g bread flour
 - 50g cake flour (can use plain flour or bread flour)
 - 25g sugar
@@ -21,7 +21,7 @@
 - 40-50g water (or milk)
 - 25g butter, softened
 
-## Steps
+### Steps
 1. Mix all, except butter. Add in poolish dough. Mix till a rough dough, then add in butter.
 2. Mix till elastic & smooth. Cling wrap and proof 1 hour (do the finger test by pressing finger into centre of dough, the depression should remain).
 3. Punch out dough on countertop. Divide into 3 equal portions (150g). Cover and rest 10 minutes.
