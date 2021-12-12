@@ -31,3 +31,5 @@
 5. Roll out lengthwise and swisssroll up. Place into loaf pan and proof 1 hour.
 6. Cover the loaf pan and bake in preheated oven at 190degC for 35-40 minutes.
 7. Slice after bread has cooled, at least 1 hour.
+
+[Back to homepage](https://ah-jia.github.io/)
