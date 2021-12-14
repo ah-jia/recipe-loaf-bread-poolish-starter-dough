@@ -1,6 +1,6 @@
 [Back to homepage](https://ah-jia.github.io/)
 
-# Load Bread (Poolish Starter Dough)
+# LOAF BREAD  (Poolish Starter Dough)
 
 ## Poolish dough
 ### Ingredients
@@ -15,7 +15,7 @@
 ## Main dough
 ### Ingredients
 - 125g bread flour
-- 50g cake flour (can use plain flour or bread flour)
+- 50g cake flour (can use plain flour, bread flour, or wholemeal flour - choice will determine texture of bread)
 - 25g sugar
 -  3g yeast
 -  3g salt
@@ -28,8 +28,8 @@
 2. Mix till elastic & smooth. Cling wrap and proof 1 hour (do the finger test by pressing finger into centre of dough, the depression should remain).
 3. Punch out dough on countertop. Divide into 3 equal portions (150g). Cover and rest 10 minutes.
 4. Roll out each portion, then fold 1/3 inward front down and bottom up.
-5. Roll out lengthwise and swisssroll up. Place into loaf pan and proof 1 hour.
-6. Cover the loaf pan and bake in preheated oven at 190degC for 35-40 minutes.
+5. Roll out lengthwise and swisssroll up. Place the 3 rolled up dough side by side in a loaf pan & cover loosely with plastic wrap. Proof 1 hour.
+6. Slide in the cover of loaf pan and bake in preheated oven at 190 deg C for 35-40 minutes.
 7. Slice after bread has cooled, at least 1 hour.
 
 [Back to homepage](https://ah-jia.github.io/)
